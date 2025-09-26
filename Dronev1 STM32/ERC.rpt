@@ -1,0 +1,8 @@
+ERC report (2025-09-17T10:17:55+0200, Encoding UTF8)
+
+***** Sheet /
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(71,12 mm, 177,80 mm): Symbol #PWR01 Pin 1 [Power input, Line]
+
+ ** ERC messages: 1  Errors 1  Warnings 0

@@ -1,0 +1,83 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "SG73P2BTTD1501F" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "R" (id 0) (at -7.624440625 2.54148125 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "SG73P2BTTD1501F" (id 1) (at -7.62996875 -5.086640625 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "SG73P2BTTD1501F:RESC3216X70N" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "KOA Speer" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Description" "\n                        \n                            RESISTOR, SURGE, 1K5 OHM 1% 1206; Resistance:1.5kohm; Resistance Tolerance:± 1%; Power Rating:330mW; Voltage Rating:200V; Temperature Coefficient:± 200ppm/°C; Resistor Element Material:Thick Film; Resistor Case Style:1206; Resistor Mounting:SMD; External Depth:0.6mm; External Length / Height:3.2mm; External Width:1.6mm; No. of Pins:2; Operating Temperature Max:155°C; Operating Temperature Min:-55°C; Operating Temperature Range:-55°C to +155°C; Package / Case:1206; Series:SG73P; Temperature Coeff. +:200ppm/°C; Temperature Coeff. -:200ppm/°C; Tolerance +:1%; Tolerance -:1%; Voltage Rating VDC:200V\n                        \n" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Package" "1206 KOA" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Price" "None" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SnapEDA_Link" "https://www.snapeda.com/parts/SG73P2BTTD1501F/KOA+Speer/view-part/?ref=snap" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "SG73P2BTTD1501F" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Availability" "In Stock" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Check_prices" "https://www.snapeda.com/parts/SG73P2BTTD1501F/KOA+Speer/view-part/?ref=eda" (id 11) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "SG73P2BTTD1501F_0_0"
+      (polyline
+        (pts (xy -5.08 0.0) (xy -4.445 1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -4.445 1.905) (xy -3.175 -1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -3.175 -1.905) (xy -1.905 1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.905 1.905) (xy -0.635 -1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -0.635 -1.905) (xy 0.635 1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 0.635 1.905) (xy 1.905 -1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 1.905 -1.905) (xy 3.175 1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 3.175 1.905) (xy 4.445 -1.905)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy 4.445 -1.905) (xy 5.08 0.0)) (stroke (width 0.254))
+      )
+      (pin passive line (at -10.16 0.0 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 10.16 0.0 180.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

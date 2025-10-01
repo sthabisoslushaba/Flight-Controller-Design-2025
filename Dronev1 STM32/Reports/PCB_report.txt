@@ -1,0 +1,670 @@
+Info: Processing symbol 'C1:10uF_EEEFN1J100L:CAP_EEEFN1J100L'.
+Info: Processing symbol 'R4:100kohmsCR0201-JW-104GLF:RESC0603X26N'.
+Info: Processing symbol 'R2:10K_ERJS1TJ103U:RES_ERJS1TJ103U'.
+Info: Processing symbol 'Q1:PMOS_DMP2066UFDE-7:MOSFET_DMP2066UFDE-7'.
+Info: Processing symbol 'ESC1:SparkFun-Connector:1x03_P2.54mm'.
+Info: Processing symbol 'C4:470pF_CL10B471KB8NNNC:CAPC1608X90N'.
+Info: Processing symbol 'R7:1kOhmsERJU06J102V:RES_ERJU06J102V'.
+Info: Processing symbol 'J1:SparkFun-Connector:1x01_6.5mm'.
+Info: Processing symbol 'C9:47uF_CL21A476MQYNNNE:CAPC2012X145N'.
+Info: Processing symbol 'R3:10K_ERJS1TJ103U:RES_ERJS1TJ103U'.
+Info: Processing symbol 'D2:SparkFun-LED:LED_1206_3216Metric_Red'.
+Info: Processing symbol 'R1:10K_ERJS1TJ103U:RES_ERJS1TJ103U'.
+Info: Processing symbol 'C7:100nF_CAPC1005X55N:CAPC1005X55N'.
+Info: Processing symbol 'C2:10uF_EEEFN1J100L:CAP_EEEFN1J100L'.
+Info: Processing symbol 'ESC4:SparkFun-Connector:1x03_P2.54mm'.
+Info: Processing symbol 'J5:SparkFun-Connector:1x01_6.5mm'.
+Info: Processing symbol 'D4:Diode_SMD:D_SOD-323'.
+Info: Processing symbol 'J4:SparkFun-Connector:1x01_6.5mm'.
+Info: Processing symbol 'C5:100nF_CAPC1005X55N:CAPC1005X55N'.
+Info: Processing symbol 'J6:SparkFun-Connector:1x01_6.5mm'.
+Info: Processing symbol 'ESC3:SparkFun-Connector:1x03_P2.54mm'.
+Info: Processing symbol 'J3:SparkFun-Connector:1x01_6.5mm'.
+Info: Processing symbol 'R6:33kOhmsERJS02F3302X:RES_ERJS02F3302X'.
+Info: Processing symbol 'C10:10nF_CL10B103KC8NNNC:CAPC1608X90N'.
+Info: Processing symbol 'J8:USB3131-30-0230-A_REVB:GCT_USB3131-30-0230-A_REVB'.
+Info: Processing symbol 'C3:100nF_CAPC1005X55N:CAPC1005X55N'.
+Info: Processing symbol 'C8:100nF_CAPC1005X55N:CAPC1005X55N'.
+Info: Processing symbol 'ESC2:SparkFun-Connector:1x03_P2.54mm'.
+Info: Processing symbol 'R5:10K_ERJS1TJ103U:RES_ERJS1TJ103U'.
+Info: Processing symbol 'D3:Package_TO_SOT_SMD:SOT-323_SC-70'.
+Info: Processing symbol 'J2:SparkFun-Connector:1x01_6.5mm'.
+Info: Processing symbol 'C6:100nF_CAPC1005X55N:CAPC1005X55N'.
+Info: Processing symbol 'R8:1K5OhmSG73P2BTTD1501F:RESC3216X70N'.
+Info: Processing symbol 'R11:22OhmERJXGNJ220Y:RES_ERJXGNJ220Y'.
+Info: Processing symbol 'R12:22OhmERJXGNJ220Y:RES_ERJXGNJ220Y'.
+Info: Processing symbol 'SW1:Button_Switch_THT:Push_E-Switch_KS01Q01'.
+Info: Processing symbol 'SW2:Button_Switch_THT:Push_E-Switch_KS01Q01'.
+Info: Processing symbol 'U1:Package_QFP:LQFP-64_10x10mm_P0.5mm'.
+Info: Total warnings: 8, errors: 0.
+Info: Processing symbol 'U2:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U3:Package_LGA:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y'.
+Info: Processing symbol 'U4:Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm'.
+Add net +BATT.
+Connected C1 pin 1 to +BATT.
+Added C2 (footprint '10uF_EEEFN1J100L:CAP_EEEFN1J100L').
+Changed REF** reference designator to C2.
+Changed C2 value from CAP_EEEFN1J100L to 10uF.
+Updated C2 symbol association from  to /7f0e4a36-4596-493d-b26f-9a6d6bf3122f.
+Updated C2 fields.
+Updated C2 sheetname to '/'.
+Updated C2 sheetfile to 'Dronev1.kicad_sch'.
+Updated C2 footprint filters to 'C_*'.
+Connected C2 pin 2 to GND.
+Add net +3.3V.
+Connected C2 pin 1 to +3.3V.
+Added C3 (footprint '100nF_CAPC1005X55N:CAPC1005X55N').
+Changed REF** reference designator to C3.
+Changed C3 value from CAPC1005X55N to 0.1uF.
+Updated C3 symbol association from  to /0d8a5219-ed23-4a6b-93f3-431f4388eef3.
+Updated C3 fields.
+Updated C3 sheetname to '/'.
+Updated C3 sheetfile to 'Dronev1.kicad_sch'.
+Updated C3 footprint filters to 'C_*'.
+Connected C3 pin 1 to +3.3V.
+Connected C3 pin 2 to GND.
+Added C4 (footprint '470pF_CL10B471KB8NNNC:CAPC1608X90N').
+Changed REF** reference designator to C4.
+Changed C4 value from CAPC1608X90N to 470pF.
+Updated C4 symbol association from  to /a0ef7c97-ee95-4709-9cd5-355603f60c1d.
+Updated C4 fields.
+Updated C4 sheetname to '/'.
+Updated C4 sheetfile to 'Dronev1.kicad_sch'.
+Updated C4 footprint filters to 'C_*'.
+Add net Net-(U2-BP).
+Connected C4 pin 1 to Net-(U2-BP).
+Connected C4 pin 2 to GND.
+Added C5 (footprint '100nF_CAPC1005X55N:CAPC1005X55N').
+Changed REF** reference designator to C5.
+Changed C5 value from CAPC1005X55N to 0.1uF.
+Updated C5 symbol association from  to /660ddc37-bc07-4da1-ae8b-aec2f4bb2eb4.
+Updated C5 fields.
+Updated C5 sheetname to '/'.
+Updated C5 sheetfile to 'Dronev1.kicad_sch'.
+Updated C5 footprint filters to 'C_*'.
+Add net Net-(U1-NRST).
+Connected C5 pin 1 to Net-(U1-NRST).
+Connected C5 pin 2 to GND.
+Added C6 (footprint '100nF_CAPC1005X55N:CAPC1005X55N').
+Changed REF** reference designator to C6.
+Changed C6 value from CAPC1005X55N to 100nF.
+Updated C6 symbol association from  to /4c95df80-2c96-4dbc-a233-85da9657d021.
+Updated C6 fields.
+Updated C6 sheetname to '/'.
+Updated C6 sheetfile to 'Dronev1.kicad_sch'.
+Updated C6 footprint filters to 'C_*'.
+Connected C6 pin 2 to GND.
+Connected C6 pin 1 to +3.3V.
+Added C7 (footprint '100nF_CAPC1005X55N:CAPC1005X55N').
+Changed REF** reference designator to C7.
+Changed C7 value from CAPC1005X55N to 100nF.
+Updated C7 symbol association from  to /1342cff6-8960-4b79-aea6-d9bf046d0b80.
+Updated C7 fields.
+Updated C7 sheetname to '/'.
+Updated C7 sheetfile to 'Dronev1.kicad_sch'.
+Updated C7 footprint filters to 'C_*'.
+Connected C7 pin 1 to +3.3V.
+Connected C7 pin 2 to GND.
+Changed REF** reference designator to C8.
+Changed C8 value from CAPC1005X55N to 0.1uF.
+Updated C8 symbol association from  to /02086ffc-de98-48ff-aca5-2a2a32265c90.
+Updated C8 fields.
+Updated C8 sheetname to '/'.
+Updated C8 sheetfile to 'Dronev1.kicad_sch'.
+Updated C8 footprint filters to 'C_*'.
+Connected C8 pin 2 to GND.
+Connected C8 pin 1 to +3.3V.
+Added C9 (footprint '47uF_CL21A476MQYNNNE:CAPC2012X145N').
+Changed REF** reference designator to C9.
+Changed C9 value from CAPC2012X145N to 47uF.
+Updated C9 symbol association from  to /9506b679-aab5-49a9-a85f-e0d278238d97.
+Updated C9 fields.
+Updated C9 sheetname to '/'.
+Updated C9 sheetfile to 'Dronev1.kicad_sch'.
+Updated C9 footprint filters to 'C_*'.
+Connected C9 pin 2 to GND.
+Add net /V_{BATT}.
+Connected C9 pin 1 to /V_{BATT}.
+Added C10 (footprint '10nF_CL10B103KC8NNNC:CAPC1608X90N').
+Changed REF** reference designator to C10.
+Changed C10 value from CAPC1608X90N to 10nF.
+Updated C10 symbol association from  to /c0d61952-4a19-4f02-b2b6-d33fad898cb3.
+Updated C10 fields.
+Updated C10 sheetname to '/'.
+Updated C10 sheetfile to 'Dronev1.kicad_sch'.
+Updated C10 footprint filters to 'C_*'.
+Connected C10 pin 2 to GND.
+Add net /BATTERY_TO_ADC.
+Connected C10 pin 1 to /BATTERY_TO_ADC.
+Added D2 (footprint 'SparkFun-LED:LED_1206_3216Metric_Red').
+Changed REF** reference designator to D2.
+Changed D2 value from LED_1206_3216Metric_Red to LED.
+Updated D2 symbol association from  to /d0c4629f-2167-4a6b-99fc-80fda0b6f9fc.
+Updated D2 fields.
+Updated D2 sheetname to '/'.
+Updated D2 sheetfile to 'Dronev1.kicad_sch'.
+Updated D2 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Connected D2 pin 1 to GND.
+Add net /LED_{BATTERY}.
+Connected D2 pin 2 to /LED_{BATTERY}.
+Added D3 (footprint 'Package_TO_SOT_SMD:SOT-323_SC-70').
+Changed REF** reference designator to D3.
+Changed D3 value from SOT-323_SC-70 to BAT54CW.
+Updated D3 symbol association from  to /c1c6f464-026f-4773-9167-f9014a28a60f.
+Updated D3 fields.
+Updated D3 sheetname to '/'.
+Updated D3 sheetfile to 'Dronev1.kicad_sch'.
+Updated D3 footprint filters to 'SOT?323*'.
+Connected D3 pin 1 to GND.
+Connected D3 pin 2 to +3.3V.
+Connected D3 pin 3 to /BATTERY_TO_ADC.
+Added D4 (footprint 'Diode_SMD:D_SOD-323').
+Changed REF** reference designator to D4.
+Changed D4 value from D_SOD-323 to BAT60A.
+Updated D4 symbol association from  to /a0a54df2-5116-4e41-ba10-e15416d0e883.
+Updated D4 fields.
+Updated D4 sheetname to '/'.
+Updated D4 sheetfile to 'Dronev1.kicad_sch'.
+Updated D4 footprint filters to 'D*SOD?323*'.
+Add net Net-(D4-A).
+Connected D4 pin 2 to Net-(D4-A).
+Connected D4 pin 1 to +BATT.
+Added ESC1 (footprint 'SparkFun-Connector:1x03_P2.54mm').
+Changed Ref** reference designator to ESC1.
+Changed ESC1 value from Val** to Conn_01x03_Pin.
+Updated ESC1 symbol association from  to /07756216-ee34-4337-8b49-9ca4a3d67f4b.
+Updated ESC1 fields.
+Updated ESC1 sheetname to '/'.
+Updated ESC1 sheetfile to 'Dronev1.kicad_sch'.
+Updated ESC1 footprint filters to 'Connector*:*_1x??_*'.
+Connected ESC1 pin 2 to GND.
+Connected ESC1 pin 3 to +BATT.
+Add net /PWM_TO_ESC1.
+Connected ESC1 pin 1 to /PWM_TO_ESC1.
+Added C8 (footprint '100nF_CAPC1005X55N:CAPC1005X55N').
+Added ESC2 (footprint 'SparkFun-Connector:1x03_P2.54mm').
+Changed Ref** reference designator to ESC2.
+Changed ESC2 value from Val** to Conn_01x03_Pin.
+Updated ESC2 symbol association from  to /8b7bac7a-e438-4aaf-98a3-a01b95730c8f.
+Updated ESC2 fields.
+Updated ESC2 sheetname to '/'.
+Updated ESC2 sheetfile to 'Dronev1.kicad_sch'.
+Updated ESC2 footprint filters to 'Connector*:*_1x??_*'.
+Connected ESC2 pin 2 to GND.
+Add net /PWM_TO_ESC2.
+Connected ESC2 pin 1 to /PWM_TO_ESC2.
+Connected ESC2 pin 3 to +BATT.
+Added ESC3 (footprint 'SparkFun-Connector:1x03_P2.54mm').
+Changed Ref** reference designator to ESC3.
+Changed ESC3 value from Val** to Conn_01x03_Pin.
+Updated ESC3 symbol association from  to /6a96544c-52cd-449e-bdd3-537ad30757de.
+Updated ESC3 fields.
+Updated ESC3 sheetname to '/'.
+Updated ESC3 sheetfile to 'Dronev1.kicad_sch'.
+Updated ESC3 footprint filters to 'Connector*:*_1x??_*'.
+Add net /PWM_TO_ESC3.
+Connected ESC3 pin 1 to /PWM_TO_ESC3.
+Connected ESC3 pin 3 to +BATT.
+Connected ESC3 pin 2 to GND.
+Added ESC4 (footprint 'SparkFun-Connector:1x03_P2.54mm').
+Changed Ref** reference designator to ESC4.
+Changed ESC4 value from Val** to Conn_01x03_Pin.
+Updated ESC4 symbol association from  to /b3cd6eaa-b0ff-4b74-9c97-80a753735f03.
+Updated ESC4 fields.
+Updated ESC4 sheetname to '/'.
+Updated ESC4 sheetfile to 'Dronev1.kicad_sch'.
+Updated ESC4 footprint filters to 'Connector*:*_1x??_*'.
+Connected ESC4 pin 2 to GND.
+Add net /PWM_TO_ESC4.
+Connected ESC4 pin 1 to /PWM_TO_ESC4.
+Connected ESC4 pin 3 to +BATT.
+Added J1 (footprint 'SparkFun-Connector:1x01_6.5mm').
+Changed REF** reference designator to J1.
+Changed J1 value from 1x01_6.5mm to Conn_01x01_Pin.
+Updated J1 symbol association from  to /30f2c185-1819-4800-bcb2-b7b701fdb6be.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'Dronev1.kicad_sch'.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Connected J1 pin 1 to /V_{BATT}.
+Added J2 (footprint 'SparkFun-Connector:1x01_6.5mm').
+Changed REF** reference designator to J2.
+Changed J2 value from 1x01_6.5mm to Conn_01x01_Pin.
+Updated J2 symbol association from  to /53a66ae5-4cc6-4f96-aa7e-880785581cab.
+Updated J2 fields.
+Updated J2 sheetname to '/'.
+Updated J2 sheetfile to 'Dronev1.kicad_sch'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Connected J2 pin 1 to GND.
+Added J3 (footprint 'SparkFun-Connector:1x01_6.5mm').
+Changed REF** reference designator to J3.
+Changed J3 value from 1x01_6.5mm to Conn_01x01_Pin.
+Updated J3 symbol association from  to /99951a58-7000-4a1f-9471-024e192f9f61.
+Updated J3 fields.
+Updated J3 sheetname to '/'.
+Updated J3 sheetfile to 'Dronev1.kicad_sch'.
+Updated J3 footprint filters to 'Connector*:*_1x??_*'.
+Add net /J3.
+Connected J3 pin 1 to /J3.
+Added J4 (footprint 'SparkFun-Connector:1x01_6.5mm').
+Changed REF** reference designator to J4.
+Changed J4 value from 1x01_6.5mm to Conn_01x01_Pin.
+Updated J4 symbol association from  to /e90e7cc5-0173-483f-8964-7015fb15daaa.
+Updated J4 fields.
+Updated J4 sheetname to '/'.
+Updated J4 sheetfile to 'Dronev1.kicad_sch'.
+Updated J4 footprint filters to 'Connector*:*_1x??_*'.
+Add net /J4.
+Connected J4 pin 1 to /J4.
+Added J5 (footprint 'SparkFun-Connector:1x01_6.5mm').
+Changed REF** reference designator to J5.
+Changed J5 value from 1x01_6.5mm to Conn_01x01_Pin.
+Updated J5 symbol association from  to /64566f04-72d9-4404-8cd8-030184a49637.
+Updated J5 fields.
+Updated J5 sheetname to '/'.
+Updated J5 sheetfile to 'Dronev1.kicad_sch'.
+Updated J5 footprint filters to 'Connector*:*_1x??_*'.
+Add net /J5.
+Connected J5 pin 1 to /J5.
+Added J6 (footprint 'SparkFun-Connector:1x01_6.5mm').
+Changed REF** reference designator to J6.
+Changed J6 value from 1x01_6.5mm to Conn_01x01_Pin.
+Updated J6 symbol association from  to /a96e627c-1fd9-4eda-8b8d-049f7bd50398.
+Updated J6 fields.
+Updated J6 sheetname to '/'.
+Updated J6 sheetfile to 'Dronev1.kicad_sch'.
+Updated J6 footprint filters to 'Connector*:*_1x??_*'.
+Add net /J6.
+Connected J6 pin 1 to /J6.
+Added J8 (footprint 'USB3131-30-0230-A_REVB:GCT_USB3131-30-0230-A_REVB').
+Changed REF** reference designator to J8.
+Changed J8 value from GCT_USB3131-30-0230-A_REVB to USB3131-30-0230-A_REVB.
+Updated J8 symbol association from  to /4146af56-ed61-4a76-8991-b73bca0411be.
+Updated J8 fields.
+Updated J8 sheetname to '/'.
+Updated J8 sheetfile to 'Dronev1.kicad_sch'.
+Add net unconnected-(J8-SHIELD-PadS1).
+Connected J8 pin S1 to unconnected-(J8-SHIELD-PadS1).
+Add net unconnected-(J8-ID-Pad4).
+Connected J8 pin 4 to unconnected-(J8-ID-Pad4).
+Add net Net-(J8-D-).
+Connected J8 pin 2 to Net-(J8-D-).
+Connected J8 pin 1 to +BATT.
+Connected J8 pin 5 to GND.
+Add net unconnected-(J8-SHIELD-PadS1)_1.
+Connected J8 pin S2 to unconnected-(J8-SHIELD-PadS1)_1.
+Add net Net-(J8-D+).
+Connected J8 pin 3 to Net-(J8-D+).
+Added Q1 (footprint 'PMOS_DMP2066UFDE-7:MOSFET_DMP2066UFDE-7').
+Changed REF** reference designator to Q1.
+Changed Q1 value from MOSFET_DMP2066UFDE-7 to PMOS.
+Updated Q1 symbol association from  to /8de5f74d-86bd-4d02-974e-61b6eef83d12.
+Updated Q1 fields.
+Updated Q1 sheetname to '/'.
+Updated Q1 sheetfile to 'Dronev1.kicad_sch'.
+Add net Net-(Q1-D).
+Connected Q1 pin 1 to Net-(Q1-D).
+Connected Q1 pin 3 to +BATT.
+Connected Q1 pin 2 to Net-(D4-A).
+Added R1 (footprint '10K_ERJS1TJ103U:RES_ERJS1TJ103U').
+Changed REF** reference designator to R1.
+Changed R1 value from RES_ERJS1TJ103U to 10k.
+Updated R1 symbol association from  to /c2da6292-f54f-4cc5-b192-527d490a516f.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'Dronev1.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Connected R1 pin 2 to +3.3V.
+Connected R1 pin 1 to Net-(U1-NRST).
+Added R2 (footprint '10K_ERJS1TJ103U:RES_ERJS1TJ103U').
+Changed REF** reference designator to R2.
+Changed R2 value from RES_ERJS1TJ103U to 10k.
+Updated R2 symbol association from  to /66afe49b-2056-4224-b634-a00cf2730940.
+Updated R2 fields.
+Updated R2 sheetname to '/'.
+Updated R2 sheetfile to 'Dronev1.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Add net /SLAVE_SDA.
+Connected R2 pin 2 to /SLAVE_SDA.
+Connected R2 pin 1 to +3.3V.
+Added R3 (footprint '10K_ERJS1TJ103U:RES_ERJS1TJ103U').
+Changed REF** reference designator to R3.
+Changed R3 value from RES_ERJS1TJ103U to 10k.
+Updated R3 symbol association from  to /7b8e414e-59f0-474d-96c7-b4c0aed3d947.
+Updated R3 fields.
+Updated R3 sheetname to '/'.
+Updated R3 sheetfile to 'Dronev1.kicad_sch'.
+Updated R3 footprint filters to 'R_*'.
+Add net /SLAVE_SCL.
+Connected R3 pin 2 to /SLAVE_SCL.
+Connected R3 pin 1 to +3.3V.
+Added R4 (footprint '100kohmsCR0201-JW-104GLF:RESC0603X26N').
+Changed REF** reference designator to R4.
+Changed R4 value from RESC0603X26N to 100k.
+Updated R4 symbol association from  to /02afc72d-9d0b-4ad6-b61b-43ac1a344d06.
+Updated R4 fields.
+Updated R4 sheetname to '/'.
+Updated R4 sheetfile to 'Dronev1.kicad_sch'.
+Updated R4 footprint filters to 'R_*'.
+Connected R4 pin 1 to Net-(D4-A).
+Connected R4 pin 2 to GND.
+Added R5 (footprint '10K_ERJS1TJ103U:RES_ERJS1TJ103U').
+Changed REF** reference designator to R5.
+Changed R5 value from RES_ERJS1TJ103U to R10k.
+Updated R5 symbol association from  to /06d79688-1150-41e5-9da9-aff6e8941409.
+Updated R5 fields.
+Updated R5 sheetname to '/'.
+Updated R5 sheetfile to 'Dronev1.kicad_sch'.
+Updated R5 footprint filters to 'R_*'.
+Connected R5 pin 2 to GND.
+Add net Net-(R5-Pad1).
+Connected R5 pin 1 to Net-(R5-Pad1).
+Added R6 (footprint '33kOhmsERJS02F3302X:RES_ERJS02F3302X').
+Changed REF** reference designator to R6.
+Changed R6 value from RES_ERJS02F3302X to R33k.
+Updated R6 symbol association from  to /0e32c2bb-2276-41cd-8d60-1417cf543db5.
+Updated R6 fields.
+Updated R6 sheetname to '/'.
+Updated R6 sheetfile to 'Dronev1.kicad_sch'.
+Updated R6 footprint filters to 'R_*'.
+Connected R6 pin 1 to /V_{BATT}.
+Connected R6 pin 2 to Net-(R5-Pad1).
+Added R7 (footprint '1kOhmsERJU06J102V:RES_ERJU06J102V').
+Changed REF** reference designator to R7.
+Changed R7 value from RES_ERJU06J102V to R1k.
+Updated R7 symbol association from  to /15eed70a-1b8d-49fe-a332-2795113bf27b.
+Updated R7 fields.
+Updated R7 sheetname to '/'.
+Updated R7 sheetfile to 'Dronev1.kicad_sch'.
+Updated R7 footprint filters to 'R_*'.
+Connected R7 pin 2 to Net-(R5-Pad1).
+Connected R7 pin 1 to /BATTERY_TO_ADC.
+Added C1 (footprint '10uF_EEEFN1J100L:CAP_EEEFN1J100L').
+Added R8 (footprint '1K5OhmSG73P2BTTD1501F:RESC3216X70N').
+Changed REF** reference designator to R8.
+Changed R8 value from RESC3216X70N to 1k5.
+Updated R8 symbol association from  to /59fe7a54-f40a-455d-a80c-cc41a30dd834.
+Updated R8 fields.
+Updated R8 sheetname to '/'.
+Updated R8 sheetfile to 'Dronev1.kicad_sch'.
+Updated R8 footprint filters to 'R_*'.
+Connected R8 pin 1 to Net-(J8-D+).
+Connected R8 pin 2 to +3.3V.
+Changed REF** reference designator to C1.
+Added R11 (footprint '22OhmERJXGNJ220Y:RES_ERJXGNJ220Y').
+Changed REF** reference designator to R11.
+Changed R11 value from RES_ERJXGNJ220Y to 22.
+Updated R11 symbol association from  to /ee43c161-26b0-4d37-a22b-afcacb8037d9.
+Updated R11 fields.
+Updated R11 sheetname to '/'.
+Updated R11 sheetfile to 'Dronev1.kicad_sch'.
+Updated R11 footprint filters to 'R_*'.
+Connected R11 pin 1 to Net-(J8-D-).
+Add net /USB_D-.
+Connected R11 pin 2 to /USB_D-.
+Changed C1 value from CAP_EEEFN1J100L to 10uF.
+Added R12 (footprint '22OhmERJXGNJ220Y:RES_ERJXGNJ220Y').
+Changed REF** reference designator to R12.
+Changed R12 value from RES_ERJXGNJ220Y to 22.
+Updated R12 symbol association from  to /a966b486-ea53-4263-b8d8-8e2dff81b8e4.
+Updated R12 fields.
+Updated R12 sheetname to '/'.
+Updated R12 sheetfile to 'Dronev1.kicad_sch'.
+Updated R12 footprint filters to 'R_*'.
+Connected R12 pin 2 to Net-(J8-D+).
+Add net /USB_D+.
+Connected R12 pin 1 to /USB_D+.
+Updated C1 symbol association from  to /4642653c-821b-44e8-96ce-02b3e4d6f088.
+Added SW1 (footprint 'Button_Switch_THT:Push_E-Switch_KS01Q01').
+Changed REF** reference designator to SW1.
+Changed SW1 value from Push_E-Switch_KS01Q01 to SW_Push.
+Updated SW1 symbol association from  to /252bfe91-1c65-4193-b137-65eb5c3389f3.
+Updated SW1 fields.
+Updated SW1 sheetname to '/'.
+Updated SW1 sheetfile to 'Dronev1.kicad_sch'.
+Connected SW1 pin 2 to Net-(U1-NRST).
+Connected SW1 pin 1 to GND.
+Updated C1 fields.
+Added SW2 (footprint 'Button_Switch_THT:Push_E-Switch_KS01Q01').
+Changed REF** reference designator to SW2.
+Changed SW2 value from Push_E-Switch_KS01Q01 to SW_Push.
+Updated SW2 symbol association from  to /f33206b0-8017-4540-8101-1a1d70f7ab3c.
+Updated SW2 fields.
+Updated SW2 sheetname to '/'.
+Updated SW2 sheetfile to 'Dronev1.kicad_sch'.
+Connected SW2 pin 2 to Net-(Q1-D).
+Connected SW2 pin 1 to /V_{BATT}.
+Updated C1 sheetname to '/'.
+Added U1 (footprint 'Package_QFP:LQFP-64_10x10mm_P0.5mm').
+Changed REF** reference designator to U1.
+Changed U1 value from LQFP-64_10x10mm_P0.5mm to STM32F415RGTx.
+Updated U1 symbol association from  to /a4134f7c-0f95-4edb-a71c-d387e9c699e0.
+Updated U1 fields.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'Dronev1.kicad_sch'.
+Updated U1 footprint filters to 'LQFP*10x10mm*P0.5mm*'.
+Add net unconnected-(U1-PC1-Pad9).
+Connected U1 pin 9 to unconnected-(U1-PC1-Pad9).
+Connected U1 pin 32 to +3.3V.
+Add net unconnected-(U1-PB9-Pad62).
+Connected U1 pin 62 to unconnected-(U1-PB9-Pad62).
+Add net unconnected-(U1-PA1-Pad15).
+Connected U1 pin 15 to unconnected-(U1-PA1-Pad15).
+Connected U1 pin 48 to +3.3V.
+Add net /USART2_RX.
+Connected U1 pin 17 to /USART2_RX.
+Add net unconnected-(U1-PC12-Pad53).
+Connected U1 pin 53 to unconnected-(U1-PC12-Pad53).
+Add net unconnected-(U1-PB6-Pad58).
+Connected U1 pin 58 to unconnected-(U1-PB6-Pad58).
+Add net unconnected-(U1-PC8-Pad39).
+Connected U1 pin 39 to unconnected-(U1-PC8-Pad39).
+Add net unconnected-(U1-PC15-Pad4).
+Connected U1 pin 4 to unconnected-(U1-PC15-Pad4).
+Add net unconnected-(U1-VCAP_2-Pad47).
+Connected U1 pin 47 to unconnected-(U1-VCAP_2-Pad47).
+Connected U1 pin 26 to /PWM_TO_ESC3.
+Connected U1 pin 44 to /USB_D-.
+Add net unconnected-(U1-PA8-Pad41).
+Connected U1 pin 41 to unconnected-(U1-PA8-Pad41).
+Add net unconnected-(U1-PC6-Pad37).
+Connected U1 pin 37 to unconnected-(U1-PC6-Pad37).
+Add net unconnected-(U1-PC7-Pad38).
+Connected U1 pin 38 to unconnected-(U1-PC7-Pad38).
+Add net unconnected-(U1-PA5-Pad21).
+Connected U1 pin 21 to unconnected-(U1-PA5-Pad21).
+Connected U1 pin 23 to /PWM_TO_ESC2.
+Connected U1 pin 1 to +3.3V.
+Add net /USART2_TX.
+Connected U1 pin 16 to /USART2_TX.
+Add net unconnected-(U1-PC9-Pad40).
+Connected U1 pin 40 to unconnected-(U1-PC9-Pad40).
+Add net unconnected-(U1-PB4-Pad56).
+Connected U1 pin 56 to unconnected-(U1-PB4-Pad56).
+Add net unconnected-(U1-PC11-Pad52).
+Connected U1 pin 52 to unconnected-(U1-PC11-Pad52).
+Add net unconnected-(U1-PC10-Pad51).
+Connected U1 pin 51 to unconnected-(U1-PC10-Pad51).
+Connected U1 pin 42 to +BATT.
+Add net unconnected-(U1-PA14-Pad49).
+Connected U1 pin 49 to unconnected-(U1-PA14-Pad49).
+Add net unconnected-(U1-PA13-Pad46).
+Connected U1 pin 46 to unconnected-(U1-PA13-Pad46).
+Updated C1 sheetfile to 'Dronev1.kicad_sch'.
+Connected U1 pin 11 to unconnected-(U1-PC3-Pad11).
+Add net unconnected-(U1-PB14-Pad35).
+Connected U1 pin 35 to unconnected-(U1-PB14-Pad35).
+Add net unconnected-(U1-PB13-Pad34).
+Connected U1 pin 34 to unconnected-(U1-PB13-Pad34).
+Add net unconnected-(U1-PD2-Pad54).
+Connected U1 pin 54 to unconnected-(U1-PD2-Pad54).
+Add net unconnected-(U1-PB2-Pad28).
+Connected U1 pin 28 to unconnected-(U1-PB2-Pad28).
+Connected U1 pin 60 to GND.
+Add net unconnected-(U1-PA4-Pad20).
+Connected U1 pin 20 to unconnected-(U1-PA4-Pad20).
+Connected U1 pin 8 to /BATTERY_TO_ADC.
+Connected U1 pin 29 to /SLAVE_SCL.
+Add net unconnected-(U1-PC2-Pad10).
+Connected U1 pin 10 to unconnected-(U1-PC2-Pad10).
+Add net /SLAVE_INT1.
+Connected U1 pin 2 to /SLAVE_INT1.
+Add net unconnected-(U1-VSSA-Pad12).
+Connected U1 pin 12 to unconnected-(U1-VSSA-Pad12).
+Add net unconnected-(U1-PC5-Pad25).
+Connected U1 pin 25 to unconnected-(U1-PC5-Pad25).
+Add net unconnected-(U1-PC14-Pad3).
+Connected U1 pin 3 to unconnected-(U1-PC14-Pad3).
+Add net unconnected-(U1-VCAP_1-Pad31).
+Connected U1 pin 31 to unconnected-(U1-VCAP_1-Pad31).
+Add net unconnected-(U1-VSS-Pad18).
+Connected U1 pin 18 to unconnected-(U1-VSS-Pad18).
+Connected U1 pin 30 to /SLAVE_SDA.
+Add net unconnected-(U1-PB12-Pad33).
+Connected U1 pin 33 to unconnected-(U1-PB12-Pad33).
+Connected U1 pin 27 to /PWM_TO_ESC4.
+Add net unconnected-(U1-PC4-Pad24).
+Connected U1 pin 24 to unconnected-(U1-PC4-Pad24).
+Connected U1 pin 45 to /USB_D+.
+Add net unconnected-(U1-PH0-Pad5).
+Connected U1 pin 5 to unconnected-(U1-PH0-Pad5).
+Add net unconnected-(U1-PA10-Pad43).
+Connected U1 pin 43 to unconnected-(U1-PA10-Pad43).
+Connected U1 pin 64 to +3.3V.
+Connected U1 pin 19 to +3.3V.
+Add net unconnected-(U1-PH1-Pad6).
+Connected U1 pin 6 to unconnected-(U1-PH1-Pad6).
+Add net unconnected-(U1-PA15-Pad50).
+Connected U1 pin 50 to unconnected-(U1-PA15-Pad50).
+Connected U1 pin 14 to /LED_{BATTERY}.
+Add net unconnected-(U1-PB8-Pad61).
+Connected U1 pin 61 to unconnected-(U1-PB8-Pad61).
+Connected U1 pin 13 to +3.3V.
+Connected U1 pin 22 to /PWM_TO_ESC1.
+Connected U1 pin 7 to Net-(U1-NRST).
+Add net unconnected-(U1-PB3-Pad55).
+Connected U1 pin 55 to unconnected-(U1-PB3-Pad55).
+Add net unconnected-(U1-VSS-Pad18)_1.
+Connected U1 pin 63 to unconnected-(U1-VSS-Pad18)_1.
+Add net unconnected-(U1-PB7-Pad59).
+Connected U1 pin 59 to unconnected-(U1-PB7-Pad59).
+Add net unconnected-(U1-PB15-Pad36).
+Connected U1 pin 36 to unconnected-(U1-PB15-Pad36).
+Add net unconnected-(U1-PB5-Pad57).
+Connected U1 pin 57 to unconnected-(U1-PB5-Pad57).
+Updated C1 footprint filters to 'C_*'.
+Added U2 (footprint 'Package_TO_SOT_SMD:SOT-23-5').
+Changed REF** reference designator to U2.
+Changed U2 value from SOT-23-5 to MIC5219-3.3YM5.
+Updated U2 symbol association from  to /3fda7859-3992-456c-ac7c-f31a8bc1bd65.
+Updated U2 fields.
+Updated U2 sheetname to '/'.
+Updated U2 sheetfile to 'Dronev1.kicad_sch'.
+Updated U2 footprint filters to 'SOT?23*'.
+Connected U2 pin 4 to Net-(U2-BP).
+Connected U2 pin 2 to GND.
+Connected U2 pin 1 to +BATT.
+Connected U2 pin 5 to +3.3V.
+Connected U2 pin 3 to +BATT.
+Add net GND.
+Added U3 (footprint 'Package_LGA:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y').
+Changed REF** reference designator to U3.
+Changed U3 value from LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y to LSM6DS3.
+Updated U3 symbol association from  to /16a071f4-5ae0-42b7-869c-e764311405a9.
+Updated U3 fields.
+Updated U3 sheetname to '/'.
+Add net unconnected-(U1-PC3-Pad11).
+Updated U3 footprint filters to 'LGA*3x2.5mm*P0.5mm*LayoutBorder3x4y*'.
+Connected U3 pin 1 to GND.
+Add net unconnected-(U3-SCX-Pad3).
+Connected U3 pin 3 to unconnected-(U3-SCX-Pad3).
+Connected U3 pin 14 to /SLAVE_SCL.
+Add net unconnected-(U3-SDX-Pad2).
+Connected U3 pin 2 to unconnected-(U3-SDX-Pad2).
+Add net unconnected-(U3-NC-Pad11).
+Connected U3 pin 11 to unconnected-(U3-NC-Pad11).
+Connected U3 pin 4 to /SLAVE_INT1.
+Connected U3 pin 5 to +3.3V.
+Connected U3 pin 7 to GND.
+Add net unconnected-(U3-NC-Pad10).
+Connected U3 pin 10 to unconnected-(U3-NC-Pad10).
+Connected U3 pin 8 to +3.3V.
+Add net unconnected-(U3-INT2-Pad9).
+Connected U3 pin 9 to unconnected-(U3-INT2-Pad9).
+Connected U3 pin 13 to /SLAVE_SDA.
+Connected U3 pin 6 to GND.
+Connected U3 pin 12 to +3.3V.
+Connected C1 pin 2 to GND.
+Added U4 (footprint 'Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm').
+Changed REF** reference designator to U4.
+Changed U4 value from QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm to ESP8266EX.
+Updated U4 symbol association from  to /50095457-b1c5-4201-b522-c55131994f5e.
+Updated U4 fields.
+Updated U4 sheetname to '/'.
+Updated U4 sheetfile to 'Dronev1.kicad_sch'.
+Updated U4 footprint filters to 'QFN*1EP*5x5mm*P0.5mm*'.
+Connected U4 pin 26 to /USART2_RX.
+Add net unconnected-(U4-MTMS-Pad9).
+Connected U4 pin 9 to unconnected-(U4-MTMS-Pad9).
+Connected U4 pin 33 to GND.
+Add net unconnected-(U4-MTDO-Pad13).
+Connected U4 pin 13 to unconnected-(U4-MTDO-Pad13).
+Add net unconnected-(U4-RES12K-Pad31).
+Connected U4 pin 31 to unconnected-(U4-RES12K-Pad31).
+Connected U4 pin 14 to /J6.
+Add net unconnected-(U4-TOUT-Pad6).
+Connected U4 pin 6 to unconnected-(U4-TOUT-Pad6).
+Add net unconnected-(U4-SDIO_CLK-Pad21).
+Connected U4 pin 21 to unconnected-(U4-SDIO_CLK-Pad21).
+Add net unconnected-(U4-MTDI-Pad10).
+Connected U4 pin 10 to unconnected-(U4-MTDI-Pad10).
+Connected U4 pin 11 to +3.3V.
+Connected U4 pin 17 to +3.3V.
+Add net unconnected-(U4-XTAL_IN-Pad28).
+Connected U4 pin 28 to unconnected-(U4-XTAL_IN-Pad28).
+Connected U4 pin 30 to +3.3V.
+Add net unconnected-(U4-SDIO_DATA_3-Pad19).
+Connected U4 pin 19 to unconnected-(U4-SDIO_DATA_3-Pad19).
+Add net unconnected-(U4-LNA-Pad2).
+Connected U4 pin 2 to unconnected-(U4-LNA-Pad2).
+Connected U4 pin 4 to +3.3V.
+Add net unconnected-(U4-SDIO_CMD-Pad20).
+Connected U4 pin 20 to unconnected-(U4-SDIO_CMD-Pad20).
+Connected U4 pin 1 to +3.3V.
+Add net unconnected-(U4-SDIO_DATA_0-Pad22).
+Connected U4 pin 22 to unconnected-(U4-SDIO_DATA_0-Pad22).
+Connected U4 pin 25 to /USART2_TX.
+Connected U4 pin 5 to +3.3V.
+Connected U4 pin 16 to /J4.
+Connected U4 pin 24 to /J5.
+Add net unconnected-(U4-~{EXT_RSTB}-Pad32).
+Connected U4 pin 32 to unconnected-(U4-~{EXT_RSTB}-Pad32).
+Add net unconnected-(U4-CHIP_PU-Pad7).
+Connected U4 pin 7 to unconnected-(U4-CHIP_PU-Pad7).
+Add net unconnected-(U4-MTCK-Pad12).
+Connected U4 pin 12 to unconnected-(U4-MTCK-Pad12).
+Connected U4 pin 15 to /J3.
+Connected U4 pin 3 to +3.3V.
+Connected U4 pin 29 to +3.3V.
+Add net unconnected-(U4-SDIO_DATA_1-Pad23).
+Connected U4 pin 23 to unconnected-(U4-SDIO_DATA_1-Pad23).
+Add net unconnected-(U4-XPD_DCDC-Pad8).
+Connected U4 pin 8 to unconnected-(U4-XPD_DCDC-Pad8).
+Add net unconnected-(U4-XTAL_OUT-Pad27).
+Connected U4 pin 27 to unconnected-(U4-XTAL_OUT-Pad27).
+Add net unconnected-(U4-SDIO_DATA_2-Pad18).
+Connected U4 pin 18 to unconnected-(U4-SDIO_DATA_2-Pad18).
+
+
+Updated U3 sheetfile to 'Dronev1.kicad_sch'.
+Warning: No net found for component SW2 pad 3 (no pin 3 in symbol).
+Warning: No net found for component SW1 pad 3 (no pin 3 in symbol).
+Warning: No net found for component Q1 pad 7 (no pin 7 in symbol).
+Warning: No net found for component Q1 pad 5 (no pin 5 in symbol).
+Warning: No net found for component Q1 pad 6 (no pin 6 in symbol).
+Warning: No net found for component SW1 pad 4 (no pin 4 in symbol).
+Warning: No net found for component SW2 pad 4 (no pin 4 in symbol).
+Warning: No net found for component Q1 pad 4 (no pin 4 in symbol).
+
+
+Info: Total warnings: 8, errors: 0.

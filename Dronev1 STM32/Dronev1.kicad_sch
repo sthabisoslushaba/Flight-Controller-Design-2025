@@ -4354,7 +4354,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SparkFun-Switch:SPST_Push_PTH_12x12mm_h8.0mm"
+		(symbol "SparkFun-Switch:SPST_Push_SMD_6.2x6.2mm_h7.0mm"
 			(pin_numbers
 				(hide yes)
 			)
@@ -4373,7 +4373,7 @@
 					)
 				)
 			)
-			(property "Value" "PTH_12x12mm_h8.0mm"
+			(property "Value" "SMD_6.2x6.2mm_h7.0mm"
 				(at 0 -2.54 0)
 				(effects
 					(font
@@ -4381,7 +4381,7 @@
 					)
 				)
 			)
-			(property "Footprint" "SparkFun-Switch:Push_PTH_12x12mm"
+			(property "Footprint" "SparkFun-Switch:Push_SMD_6.2x6.2mm"
 				(at 0 -5.08 0)
 				(effects
 					(font
@@ -4390,7 +4390,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.omron.com/ecb/products/pdf/en-b3f.pdf"
+			(property "Datasheet" "https://www.we-online.com/components/products/datasheet/4301x2xxx8x6.pdf"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -4400,7 +4400,7 @@
 				)
 			)
 			(property "Description" "Single Pole Single Throw (SPST) switch"
-				(at 0 -12.7 0)
+				(at 0 -15.24 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -4408,7 +4408,7 @@
 					(hide yes)
 				)
 			)
-			(property "PROD_ID" "SWCH-09185"
+			(property "PROD_ID" "SWCH-11966"
 				(at 0 -7.62 0)
 				(effects
 					(font
@@ -4417,7 +4417,7 @@
 					(hide yes)
 				)
 			)
-			(property "Mfg Part#" ""
+			(property "Mfg Part#" "679-2384-2-ND"
 				(at 0 -12.7 0)
 				(effects
 					(font
@@ -4435,7 +4435,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "SPST_Push_PTH_12x12mm_h8.0mm_0_1"
+			(symbol "SPST_Push_SMD_6.2x6.2mm_h7.0mm_0_1"
 				(circle
 					(center -2.032 0)
 					(radius 0.508)
@@ -4501,7 +4501,7 @@
 					)
 				)
 			)
-			(symbol "SPST_Push_PTH_12x12mm_h8.0mm_1_1"
+			(symbol "SPST_Push_SMD_6.2x6.2mm_h7.0mm_1_1"
 				(pin passive line
 					(at 5.08 0 180)
 					(length 2.54)
@@ -8865,6 +8865,92 @@
 		)
 	)
 	(symbol
+		(lib_id "SparkFun-Switch:SPST_Push_SMD_6.2x6.2mm_h7.0mm")
+		(at 43.18 172.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1403306f-a54f-46d4-91c0-5814d1ce5515")
+		(property "Reference" "SW2"
+			(at 43.18 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SMD_6.2x6.2mm_h7.0mm"
+			(at 43.18 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SparkFun-Switch:Push_SMD_6.2x6.2mm"
+			(at 43.18 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/4301x2xxx8x6.pdf"
+			(at 43.18 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 43.18 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROD_ID" "SWCH-11966"
+			(at 43.18 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfg Part#" "679-2384-2-ND"
+			(at 43.18 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7a3b990b-768d-48d2-bb53-593df150dfcf")
+		)
+		(pin "2"
+			(uuid "3e3d1d47-6d3b-406a-9fc5-cfda07a9e4c3")
+		)
+		(instances
+			(project ""
+				(path "/9a13d9ab-b87e-4664-aaf5-3621ae5621d7"
+					(reference "SW2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 62.23 134.62 270)
 		(unit 1)
@@ -9234,91 +9320,6 @@
 			(project ""
 				(path "/9a13d9ab-b87e-4664-aaf5-3621ae5621d7"
 					(reference "#PWR037")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SparkFun-Switch:SPST_Push_PTH_12x12mm_h8.0mm")
-		(at 43.18 172.72 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "300e7e32-591f-4d21-8cb6-250def60e4b9")
-		(property "Reference" "SW3"
-			(at 43.18 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PTH_12x12mm_h8.0mm"
-			(at 43.18 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SparkFun-Switch:Push_PTH_12x12mm"
-			(at 43.18 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.omron.com/ecb/products/pdf/en-b3f.pdf"
-			(at 43.18 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 43.18 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROD_ID" "SWCH-09185"
-			(at 43.18 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfg Part#" ""
-			(at 43.18 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2658a0e4-32a7-4cc3-ad09-d7a10ed11aee")
-		)
-		(pin "2"
-			(uuid "8b0261e2-5268-4ebc-bfdc-a8d155bdae19")
-		)
-		(instances
-			(project ""
-				(path "/9a13d9ab-b87e-4664-aaf5-3621ae5621d7"
-					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -9890,7 +9891,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "50095457-b1c5-4201-b522-c55131994f5e")
-		(property "Reference" "U4"
+		(property "Reference" "U2"
 			(at 168.5133 151.13 0)
 			(effects
 				(font
@@ -10037,7 +10038,7 @@
 		(instances
 			(project ""
 				(path "/9a13d9ab-b87e-4664-aaf5-3621ae5621d7"
-					(reference "U4")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -13465,6 +13466,93 @@
 		)
 	)
 	(symbol
+		(lib_id "SparkFun-Switch:SPST_Push_SMD_6.2x6.2mm_h7.0mm")
+		(at 199.39 34.29 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e32207b5-7eef-4bdc-9df9-fd1e5e0b8ca2")
+		(property "Reference" "SW1"
+			(at 203.2 33.0199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SMD_6.2x6.2mm_h7.0mm"
+			(at 201.676 41.148 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SparkFun-Switch:Push_SMD_6.2x6.2mm"
+			(at 194.31 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/4301x2xxx8x6.pdf"
+			(at 189.23 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 184.15 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PROD_ID" "SWCH-11966"
+			(at 191.77 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfg Part#" "679-2384-2-ND"
+			(at 186.69 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "921423d6-2994-4ee5-9bc8-270a075b8556")
+		)
+		(pin "2"
+			(uuid "68cf7973-fa78-4fcd-9500-d808e7196ea8")
+		)
+		(instances
+			(project "Dronev1"
+				(path "/9a13d9ab-b87e-4664-aaf5-3621ae5621d7"
+					(reference "SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 134.62 59.69 90)
 		(unit 1)
@@ -13526,94 +13614,6 @@
 			(project "Dronev1"
 				(path "/9a13d9ab-b87e-4664-aaf5-3621ae5621d7"
 					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SparkFun-Switch:SPST_Push_PTH_12x12mm_h8.0mm")
-		(at 199.39 34.29 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ed803e9d-7cb3-48bd-ab88-6035f26abde9")
-		(property "Reference" "SW1"
-			(at 203.2 33.0199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PTH_12x12mm_h8.0mm"
-			(at 203.2 35.5599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SparkFun-Switch:Push_PTH_12x12mm"
-			(at 194.31 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.omron.com/ecb/products/pdf/en-b3f.pdf"
-			(at 189.23 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 186.69 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PROD_ID" "SWCH-09185"
-			(at 191.77 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfg Part#" ""
-			(at 186.69 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ec720c10-de27-4255-b637-002b4b1ec4ad")
-		)
-		(pin "2"
-			(uuid "59cc4262-ba46-468d-adf1-cabfb4a9868a")
-		)
-		(instances
-			(project ""
-				(path "/9a13d9ab-b87e-4664-aaf5-3621ae5621d7"
-					(reference "SW1")
 					(unit 1)
 				)
 			)

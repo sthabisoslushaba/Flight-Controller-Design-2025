@@ -1673,14 +1673,15 @@
 		(at 185.5 123 90)
 		(descr "https://www.we-online.com/components/products/datasheet/4301x2xxx8x6.pdf")
 		(tags "SparkFun Momentary Switch (Pushbutton)")
-		(property "Reference" "SW1"
-			(at 0 -3.175 90)
+		(property "Reference" "ON/OFF"
+			(at 0 5 90)
 			(layer "F.Fab")
 			(uuid "4943b766-a887-49f1-929f-fb5ac18e3773")
 			(effects
 				(font
-					(size 0.5 0.5)
-					(thickness 0.1)
+					(size 0.8 0.5)
+					(thickness 0.098425)
+					(bold yes)
 				)
 				(justify bottom)
 			)
